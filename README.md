@@ -33,4 +33,5 @@ This project developed with pure HTML, CSS and bootstrap mainly focused on React
 
 ### Demo :
 
-![App Theme 1](https://github.com/anitha-nagadasarink/react-tick-tak-toe/tree/React-apps/images/demo.PNG)
+![App Theme](https://github.com/anitha-nagadasarink/react-tick-tak-toe/blob/React-apps/images/demo.PNG)
+![App Theme Error](https://github.com/anitha-nagadasarink/react-tick-tak-toe/blob/React-apps/images/demo-1.PNG)
